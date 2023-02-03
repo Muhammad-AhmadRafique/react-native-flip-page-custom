@@ -16,6 +16,7 @@
     "react-native": ">= 0.56.x"
   },
   "dependencies": {
-    "prop-types": "^15.6.2"
+    "prop-types": "^15.6.2",
+    "react-native-flip-page": "^0.5.0"
   }
 }
